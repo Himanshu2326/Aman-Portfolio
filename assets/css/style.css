@@ -190,7 +190,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome-banner.jpg)no-repeat;
+    /* background:url(../images/banner-one.jpeg)no-repeat; */
+    /* background:url(../images/banner-two.jpeg)no-repeat; */
+    background:url(../images/banner-three.jpeg)no-repeat;
+
     background-size:cover;
     background-position: center;
     height:890px;
@@ -369,9 +372,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 /*-------------------------------------
         6.  Skills
 --------------------------------------*/
-.skills {
-    
-}
+
 .skill-content{padding: 50px 0 80px;}
 .single-skill-content{padding-top: 100px;}
 .section-heading h2 {
@@ -379,7 +380,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     font-weight: 600;
     text-transform: uppercase;
     padding-bottom: 50px;
-    border-bottom: 1px solid #e5ebf2;
+    /* border-bottom: 1px solid #e5ebf2; */
 }
 .single-progress-txt {
     display: flex;
